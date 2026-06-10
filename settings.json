@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "realxardcoresmp.aternos.me",
-    "port": 13551,
+    "ip": "xardcoresmpuz.aternos.me",
+    "port": 12154,
     "version": "1.21.11",
     "try-creative": false
   },
