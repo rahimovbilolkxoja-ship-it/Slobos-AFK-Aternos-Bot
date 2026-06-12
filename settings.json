@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "xardcoresmpuz.aternos.me",
-    "port":  27349,
+    "port":  22206,
     "version": "1.21.11",
     "try-creative": false
   },
