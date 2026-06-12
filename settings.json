@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "xardcoresmpuz.aternos.me",
-    "port":  22206,
+    "ip": "xardcoresmpuz.aternos.me:22206",
+    "port": 22206,
     "version": "1.21.11",
     "try-creative": false
   },
@@ -38,8 +38,8 @@
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 10000000000000000000000000000000,
-    "max-reconnect-delay": 100000000000000000000000000000000
+    "auto-reconnect-delay": 2000,
+    "max-reconnect-delay": 120000
   },
   "movement": {
     "enabled": true,
